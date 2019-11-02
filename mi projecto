@@ -1,2 +1,13 @@
-mkdir index.html
+<html> 
+  <head>
+	mi pagina
+  </head>
+  <body>
+	<p>hola mundo</p>
+	<b>como estan todos</b>
+	<br>
+	<br>
+	<i>me llamo anthony luis</i>
+  </body>
+</html>
 
