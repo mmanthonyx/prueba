@@ -3,4 +3,4 @@
 - [x] aqui esta
 - [ ] aqui no esta 
 - [x] aqui tambien esta 
-- [ ] aqui tasmpoco esta 
+- [ ] aqui tampoco esta 
